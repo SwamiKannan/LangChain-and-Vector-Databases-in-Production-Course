@@ -1,0 +1,6 @@
+matplotlib==3.7.2
+numpy==1.25.0
+replit==3.3.0
+sentencepiece==0.1.99
+torch==2.0.1
+typing_extensions==4.7.1
