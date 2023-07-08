@@ -17,4 +17,7 @@ Activeloop, Towards AI, and Intel Disruptor Initiative collaborate to bring Foun
    Deep Lake is the vector database for all AI data - whether this is text, images, videos, multiple embeddings to the same data, etc. Learn how to use Deep Lake to build an ultimate data moat at your organization.
 
 ### Note:
-Projects are not part of this repo. While basing my work on the projects provided, I have evolved my work even beyond the scope of the project. Hence, I have set these up as separate repos.
+<ul>
+<li>Projects are not part of this repo. While basing my work on the projects provided, I have evolved my work even beyond the scope of the project. Hence, I have set these up as separate repos.</li>
+<li>Not putting up the quiz results on the repo as well.</li>
+</ul>
